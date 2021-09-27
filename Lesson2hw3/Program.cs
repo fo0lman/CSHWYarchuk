@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Lesson2hw3
 {
@@ -32,7 +28,7 @@ namespace Lesson2hw3
 		static void ShowGreatings()
 		{
 			Console.WriteLine("Hello! Yoy must enter 5 values...");
-			Console.WriteLine("Ready? Press any key for start.");
+			Console.WriteLine("Ready? Press any key to start.");
 
 			Console.ReadKey();
 		}
